@@ -12,6 +12,8 @@ Throughout my career, I've had the privilege of contributing to projects that ha
 
 What truly excites me about software development is the opportunity to solve challenging problems and create software that matters. I thrive in collaborative team environments and have a proven track record of working effectively with cross-functional teams to deliver projects on time and within budget.
 
+**I'm currently seeking employment as a Full Stack Developer.**
+
 When I'm not immersed in code, I'm an advocate for continuous learning within and outside of the industry and seeking correlation between different industries. I stay updated with industry trends, attend tech meetups, and enjoy tackling personal coding projects to expand my skill set.
 
 I'm always open to connecting with fellow software developers, tech enthusiasts, and potential collaborators. Whether you're looking to network, discuss industry trends, or explore potential opportunities, feel free to reach out. Let's connect and embark on this exciting journey of technology together.</p>
