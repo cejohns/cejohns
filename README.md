@@ -1,33 +1,87 @@
-<h1 align="center">Hi 👋, I'm Cory Johnson</h1>
-<h3 align="center">A passionate Full-Stack developer from Goldsboro, NC</h3>
+<!-- Banner -->
+<!-- After you upload the banner image to your profile repo, replace the URL below with the RAW GitHub URL -->
+![Cory Evan Johnson Banner](https://github.com/cejohns/cejohns/raw/main/banner_github.png)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cejohns" alt="cejohns" /></a> </p>
+# 👋 Hi, I'm Cory Evan Johnson
 
-- 📫 How to reach me **cejohns3@gmail.com**
+**Mid-Level Software Engineer · Full-Stack Developer (React/Node/TS) · Gameplay Programmer (Unity/C#)**
 
-<h3 align="left">About Me:</h3>
-<p align="left">As a dedicated software developer with a passion for crafting innovative solutions, I bring 8 years of experience in designing and building software applications that make a real impact. My expertise spans a wide range of technologies, including proficiency in languages like C#, Java, Python, and JavaScript, as well as hands-on experience with game engines, modern web frameworks, and databases.
+I build production-grade applications and game systems that support real users — from **digital marketplaces** and **manufacturing execution systems** to **match-3 gameplay prototypes** and **developer tooling**.
 
-Throughout my career, I've had the privilege of contributing to projects that have transformed businesses and enhanced user experiences. I take pride in my ability to translate complex technical requirements into elegant, user-friendly solutions. My commitment to writing clean, efficient code and staying up to date with emerging technologies ensures that I deliver results that stand the test of time.
+---
 
-What truly excites me about software development is the opportunity to solve challenging problems and create software that matters. I thrive in collaborative team environments and have a proven track record of working effectively with cross-functional teams to deliver projects on time and within budget.
+## 🔹 Tech I Work With
 
-**I'm currently seeking employment as a Full Stack Developer.**
+- **Languages:** TypeScript, JavaScript, C#, SQL, Python, HTML, CSS  
+- **Web:** React, Node.js, Express, REST APIs, Auth/RBAC, Admin Dashboards  
+- **Game Dev:** Unity (C#), Unreal Engine 5 (Blueprints + C++ basics), Gameplay Systems, Save/Load  
+- **Databases:** PostgreSQL, MySQL, SQLite  
+- **Automation & Testing:** Selenium, Playwright, Jest  
+- **DevOps & Delivery:** Git & GitHub, Vercel, Bolt.new, CI/CD, Linux
 
-When I'm not immersed in code, I'm an advocate for continuous learning within and outside of the industry and seeking correlation between different industries. I stay updated with industry trends, attend tech meetups, and enjoy tackling personal coding projects to expand my skill set.
+---
 
-I'm always open to connecting with fellow software developers, tech enthusiasts, and potential collaborators. Whether you're looking to network, discuss industry trends, or explore potential opportunities, feel free to reach out. Let's connect and embark on this exciting journey of technology together.</p>
+## 🚀 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/cejohnson54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cejohnson54" height="30" width="40" /></a>
-</p>
+### 🔹 Digital Liger Marketplace
+Full-stack digital storefront for game keys, gift cards, and software subscriptions.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- React + TypeScript frontend with secure auth and admin workflows  
+- Node/Express + PostgreSQL backend with vendor API integrations  
+- Product import, price sync, and basic fraud-mitigation logic  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cejohns&show_icons=true&locale=en&layout=compact" alt="cejohns" /></p>
+🔗 Repo: _[link here]_ • 🌐 Demo: _[link here]_
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cejohns&show_icons=true&locale=en" alt="cejohns" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cejohns&" alt="cejohns" /></p>
+### 🔹 AeroSpaceMES
+Manufacturing Execution System prototype focused on aerospace workflows and FAA/AS9102-style approvals.
+
+- Role-based task tracking for Technicians, QA, and Admins  
+- Work order dashboards, shift scheduling, and time-trend charts  
+- FAI-style approvals and PDF export of sign-off data  
+
+🔗 Repo: _[link here]_
+
+---
+
+### 🔹 FireStar Gaming Network (FGN)
+Gaming media platform for news, reviews, tutorials, and playthroughs.
+
+- Custom CMS-style backend with approvals and previews  
+- SEO-friendly routes, categories, and tags  
+- Dark gamer UI theme aligned with FireStar branding  
+
+🔗 Repo: _[link here]_ • 🌐 Site: _[link here]_
+
+---
+
+### 🔹 Match-3 Game (Unity)
+Unity prototype with match logic, power-ups, chapter progression, and save slots.
+
+- Tile matching, cascades, and special tiles  
+- Chapter/level progression and objectives  
+- Currency + marketplace and multi-slot save/load  
+
+🔗 Repo: _[link here]_
+
+---
+
+### 🔹 Job Application Automation Bot
+Python + Selenium tool that automates job form filling and tailoring.
+
+- Logs into target job sites and fills forms automatically  
+- Injects job-specific keywords into resumes/cover letters  
+- Cuts manual application time by **~70%**
+
+🔗 Repo: _[link here]_
+
+---
+
+## 📫 Connect With Me
+
+📍 Raleigh, NC — Open to Remote  
+🔗 LinkedIn: [linkedin.com/in/coryevanjohnson](https://www.linkedin.com/in/coryevanjohnson)  
+📧 Email: **cejohns3@gmail.com**
+
+Always open to collaborating on **full-stack projects, tools, and game prototypes**.
